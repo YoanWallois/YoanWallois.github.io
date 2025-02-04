@@ -26,7 +26,7 @@ redirect_from:
     </div>
   * Skills: Data management, big data, applied machine learning, text mining, data visualization, web-scraping, prompt engineering
   * Focus: Environmental political economy and policy evaluation, OECD research (CAPMF, PINE, EPSI)
-* M.Sc. in International Economics (EIPMC), University Paris Nanterre, 2019 (with Merit)
+* M.Sc. in International Economics anf Finance (EIPMC), University Paris Nanterre, 2019 (with Merit)
   * Focus: Macroeconomic Policies and Economic Outlook
   * Quantitative methods in international macroeconomics and finance
 * M.Sc. in Applied Economics, University Paris Nanterre, 2018 (with Merit)
@@ -71,3 +71,22 @@ redirect_from:
 * 2023: LEMNA seminar - Nantes
 * 2023: CIREQ-CIRANO seminar - Montreal (online)
 * 2022: Climate Change PSE Summer School - Paris
+
+<div style="display: flex; gap: 20px; font-size: 18px;">
+  <div style="flex: 1;">
+    **Column 1**
+    - Item 1
+    - Item 2
+    - Item 3
+  </div>
+
+  <div style="flex: 1;">
+    **Column 2**
+    - Item A
+    - Item B
+    - Item C
+  </div>
+</div>
+
+
+
