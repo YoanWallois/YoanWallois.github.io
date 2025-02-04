@@ -12,8 +12,8 @@ redirect_from:
 * __Published paper__:
   * "[__Do IMF Reports Affect Market Expectations? A Sentiment Analysis Approach__](https://link.springer.com/article/10.1007/s10290-023-00509-1)", H. Bennani, C. Couharde & Y. Wallois, Review of World Economics, 2024
 * __Current research activities__:
-  * "__A worldwide measure of environmental policy stringency: A text mining approach from legislations__", LEM Working paper series, Y. Wallois, 2024
-  * "__Climate-related Extreme Weather Events and Environmental Policy Stringency__", F. Huart and Y. Wallois
+  * "___A worldwide measure of environmental policy stringency: A text mining approach from legislations___", LEM Working paper series, Y. Wallois, 2024
+  * "___Climate-related Extreme Weather Events and Environmental Policy Stringency___", F. Huart and Y. Wallois
 
 &nbsp;
 # Education
