@@ -13,9 +13,18 @@ redirect_from:
   * Dissertation: "Text mining and political economy: New applications to finance and the environment"
   * Supervisor: Florence Huart
   * Jury Members:
+  <div style="display: flex; gap: 20px; font-size: 18px;">
+  <div style="flex: 1;">
+     Mireille Chiroleu-Assouline (PSE)
+  </div>
+
+  <div style="flex: 1;">
+     Mireille Chiroleu-Assouline (PSE)
+  </div>
+</div>
     <div style="display: grid; grid-template-columns: 1fr 1fr;">
       <div>
-        * Mireille Chiroleu-Assouline (PSE)
+        Mireille Chiroleu-Assouline (PSE)
         * Fanny Henriet (AMSE - CNRS)
         * Jean-Yves Gnabo (U-Namur)
       </div>
@@ -71,22 +80,6 @@ redirect_from:
 * 2023: LEMNA seminar - Nantes
 * 2023: CIREQ-CIRANO seminar - Montreal (online)
 * 2022: Climate Change PSE Summer School - Paris
-
-<div style="display: flex; gap: 20px; font-size: 18px;">
-  <div style="flex: 1;">
-    **Column 1**
-    - Item 1
-    - Item 2
-    - Item 3
-  </div>
-
-  <div style="flex: 1;">
-    **Column 2**
-    - Item A
-    - Item B
-    - Item C
-  </div>
-</div>
 
 
 
