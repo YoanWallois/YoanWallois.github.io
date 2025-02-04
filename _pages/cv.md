@@ -7,11 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-
-
-
-<p style="line-height: 1.8;">
-  
+  &nbsp; &nbsp; &nbsp;
 # Research activities
 * Published paper:
   * "[__Do IMF Reports Affect Market Expectations? A Sentiment Analysis Approach__](https://link.springer.com/article/10.1007/s10290-023-00509-1)", H. Bennani, C. Couharde & Y. Wallois, Review of World Economics, 2024
@@ -68,4 +64,4 @@ redirect_from:
 * 2024: CLERSE seminar - Lille
 * 2023: LEMNA seminar - Nantes
 * 2023: CIREQ-CIRANO seminar - Montreal (online)
-* 2022: Climate Change PSE Summer School - Paris</p>
+* 2022: Climate Change PSE Summer School - Paris
