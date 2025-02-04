@@ -45,20 +45,10 @@ redirect_from:
   * Specialized in international macroeconomics
 
 # Data processing tools and Skills
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-      <div>
-        * Text Mining & ML: Python (Sklearn, Gensim, TF, Keras), R (mlr, tm, caret)
-      </div>
-      <div>
-        * Econometrics: STATA, R, Python
-      </div>
-      <div>
-        * Data Management: R (tidyverse, ggplot2), Python (pandas, np, matplotlib, seaborn)
-      </div>
-      <div>
-        * collaborative work tools: Python .venv, Github, Zotero
-      </div>
-    </div>
+* __Text Mining & ML__: Python (Sklearn, Gensim, TF, Keras), R (mlr, tm, caret)
+* __Econometrics__: STATA, R, Python
+* __Data Management__: R (tidyverse, ggplot2), Python (pandas, np, matplotlib, seaborn)
+* __Collaborative work tools__: Python .venv, Github, Zotero
 
 # Academic activities and Leadership
 * 2020-2024: __Teaching Assistant__, University of Lille - FaSEST
