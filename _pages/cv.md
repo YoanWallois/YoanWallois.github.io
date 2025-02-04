@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+
+
+
+
   
 # Research activities
 * Published paper:
