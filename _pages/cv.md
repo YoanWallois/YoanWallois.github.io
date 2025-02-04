@@ -15,6 +15,7 @@ redirect_from:
   * "__A worldwide measure of environmental policy stringency: A text mining approach from legislations__", LEM Working paper series, Y. Wallois, 2024
   * "__Climate-related Extreme Weather Events and Environmental Policy Stringency__", F. Huart and Y. Wallois
 
+&nbsp; &nbsp;
 # Education
 * __Ph.D in Economics, University of Lille - Lille Economy & Management (UMR 9221)__, 2024
   * Dissertation: "Text mining and political economy: New applications to finance and the environment"
@@ -44,12 +45,14 @@ redirect_from:
 * __M.Sc. in Applied Economics__, University Paris Nanterre, 2018 (with Merit)
   * Specialized in international macroeconomics
 
+&nbsp; &nbsp;
 # Data processing tools and Skills
 * __Text Mining & ML__: Python (Sklearn, Gensim, TF, Keras), R (mlr, tm, caret)
 * __Econometrics__: STATA, R, Python
 * __Data Management__: R (tidyverse, ggplot2), Python (pandas, np, matplotlib, seaborn)
 * __Collaborative work tools__: Python .venv, Github, Zotero
 
+&nbsp; &nbsp;
 # Academic activities and Leadership
 * 2020-2024: __Teaching Assistant__, University of Lille - FaSEST
   * Master level: Estimation methods with R
@@ -60,6 +63,7 @@ redirect_from:
 * 2021-2022: __PhD Students' Representative__, SESAM Doctoral School
 * 2019: __Research Assistant__, EconomiX-CNRS (UMR 7235), University Paris Nanterre
 
+&nbsp; &nbsp;
 # Talks & Presentations
 * 2024: CLERSE seminar - Lille
 * 2023: LEMNA seminar - Nantes
