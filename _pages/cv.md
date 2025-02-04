@@ -9,9 +9,9 @@ redirect_from:
 {% include base_path %}
   &nbsp; &nbsp;
 # Research activities
-* Published paper:
+* __Published paper__:
   * "[__Do IMF Reports Affect Market Expectations? A Sentiment Analysis Approach__](https://link.springer.com/article/10.1007/s10290-023-00509-1)", H. Bennani, C. Couharde & Y. Wallois, Review of World Economics, 2024
-* Current research activities:
+* __Current research activities__:
   * "__A worldwide measure of environmental policy stringency: A text mining approach from legislations__", LEM Working paper series, Y. Wallois, 2024
   * "__Climate-related Extreme Weather Events and Environmental Policy Stringency__", F. Huart and Y. Wallois
 
