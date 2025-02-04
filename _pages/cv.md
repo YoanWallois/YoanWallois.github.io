@@ -18,19 +18,16 @@ redirect_from:
         * Mireille Chiroleu-Assouline (PSE)
       </div>
       <div>
-        * Eugénie Dugoua (LSE - Grantham Research Institute)
-      </div>
-      <div>
-        * Mireille Chiroleu-Assouline (PSE)
+        * Fanny Henriet (AMSE - CNRS)
       </div>
       <div>
         * Eugénie Dugoua (LSE - Grantham Research Institute)
       </div>
       <div>
-        * Mireille Chiroleu-Assouline (PSE)
+        * Jean-Yves Gnabo (U-Namur)
       </div>
       <div>
-        * Eugénie Dugoua (LSE - Grantham Research Institute)
+        * Paul Maarek (U-Assas)
       </div>
     </div>
   * Skills: Data management, big data, applied machine learning, text mining, data visualization, web-scraping, prompt engineering
