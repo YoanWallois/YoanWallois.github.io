@@ -7,11 +7,19 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+  
+# Research activities
+* Published paper:
+  * "[__Do IMF Reports Affect Market Expectations? A Sentiment Analysis Approach__](https://link.springer.com/article/10.1007/s10290-023-00509-1)", H. Bennani, C. Couharde & Y. Wallois, Review of World Economics, 2024
+* Current research activities:
+  * "__A worldwide measure of environmental policy stringency: A text mining approach from legislations__", LEM Working paper series, Y. Wallois, 2024
+  * "__Climate-related Extreme Weather Events and Environmental Policy Stringency__", F. Huart and Y. Wallois
 
 # Education
 * __Ph.D in Economics, University of Lille - Lille Economy & Management (UMR 9221)__, 2024
   * Dissertation: "Text mining and political economy: New applications to finance and the environment"
-  * Supervisor: Florence Huart
+  * Skills: Data management, big data, applied machine learning, text mining, data visualization, web-scraping, prompt engineering
+  * Focus: Environmental political economy and policy evaluation
   * Jury Members:
     <div style="display: grid; grid-template-columns: 1fr 1fr;">
       <div>
@@ -30,31 +38,27 @@ redirect_from:
         * Paul Maarek (U-Assas)
       </div>
     </div>
-  * Skills: Data management, big data, applied machine learning, text mining, data visualization, web-scraping, prompt engineering
-  * Focus: Environmental political economy and policy evaluation, OECD research (CAPMF, PINE, EPSI)
 * __M.Sc. in International Economics and Finance (EIPMC)__, University Paris Nanterre, 2019 (with Merit)
   * Focus: Macroeconomic Policies and Economic Outlook
   * Quantitative methods in international macroeconomics and finance
 * __M.Sc. in Applied Economics__, University Paris Nanterre, 2018 (with Merit)
   * Specialized in international macroeconomics
-  
-# Publications
-* "[__Do IMF Reports Affect Market Expectations? A Sentiment Analysis Approach__](https://link.springer.com/article/10.1007/s10290-023-00509-1)", H. Bennani, C. Couharde & Y. Wallois, Review of World Economics, 2024
 
-# Working Papers
-* "__A worldwide measure of environmental policy stringency: A text mining approach from legislations__", LEM Working paper series, Y. Wallois, 2024
-* "__Climate-related Extreme Weather Events and Environmental Policy Stringency__", F. Huart and Y. Wallois
-
-# Skills
-* __Programming__
-  * Text Mining & ML: Python (Sklearn, Gensim, TF, Keras), R (mlr, tm, caret)
-  * Econometrics: STATA, R, Python
-  * Data Management: R (tidyverse, ggplot2), Python (pandas, np, matplotlib, seaborn)
-  * Collaboration Tools: Python venv, Github, Zotero
-* __Languages__
-  * French: Native
-  * English: C1 Advanced level
-  * Spanish: B2 Certification
+# Data processing tools and Skills
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
+      <div>
+        * Text Mining & ML: Python (Sklearn, Gensim, TF, Keras), R (mlr, tm, caret)
+      </div>
+      <div>
+        * Econometrics: STATA, R, Python
+      </div>
+      <div>
+        * Data Management: R (tidyverse, ggplot2), Python (pandas, np, matplotlib, seaborn)
+      </div>
+      <div>
+        * collaborative work tools: Python .venv, Github, Zotero
+      </div>
+    </div>
 
 # Academic activities and Leadership
 * 2020-2024: __Teaching Assistant__, University of Lille - FaSEST
