@@ -20,7 +20,7 @@ redirect_from:
 * __Ph.D in Economics, University of Lille - Lille Economy & Management (UMR 9221)__, 2024
   * Dissertation: "Text mining and political economy: New applications to finance and the environment"
   * Skills: Data management, big data, applied machine learning, text mining, data visualization, web-scraping, prompt engineering
-  * Focus: Environmental political economy and policy evaluation
+  * Strong knowledge and understanding of environmental and climate issues, policies, and research.
   * Jury Members:
     <div style="display: grid; grid-template-columns: 1fr 1fr;">
       <div>
