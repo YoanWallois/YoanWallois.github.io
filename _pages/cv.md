@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-
+<p style="line-height: 1.8;">
   
 # Research activities
 * Published paper:
@@ -68,4 +68,4 @@ redirect_from:
 * 2024: CLERSE seminar - Lille
 * 2023: LEMNA seminar - Nantes
 * 2023: CIREQ-CIRANO seminar - Montreal (online)
-* 2022: Climate Change PSE Summer School - Paris
+* 2022: Climate Change PSE Summer School - Paris</p>
