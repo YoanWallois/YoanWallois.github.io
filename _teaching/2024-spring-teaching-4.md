@@ -1,5 +1,5 @@
 ---
-title: "Macroeconomics"
+title: "Growth Economics"
 collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
