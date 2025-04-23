@@ -73,4 +73,5 @@ redirect_from:
 * 2022: Climate Change PSE Summer School - Paris
 
 -----
-[link](./CV_WalloisYoan.pdf)
+![CV available in English](./CV_WalloisYoan2025en.pdf)
+[CV available in French](./CV_WalloisYoan2025fr.pdf)
