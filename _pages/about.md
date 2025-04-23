@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome
+Greetings,
 ======
 As a Ph.D. in Economics and Data Scientist, I specialize in harnessing the power of data—whether structured or unstructured—to generate original insights, deepen understanding, and forecast trends across diverse domains. My research and professional work revolve around the intersection of econometrics, machine learning, and text mining, with a particular focus on environmental policy, climate economics, and financial markets. By combining advanced quantitative techniques (Python, R, STATA) with innovative methodologies such as dynamic data visualization, web scraping, and natural language processing, I transform raw data into actionable intelligence.
 
