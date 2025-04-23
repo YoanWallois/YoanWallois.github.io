@@ -48,9 +48,11 @@ redirect_from:
 &nbsp;
 # Data processing tools and Skills
 * __Text Mining & ML__: Python (Sklearn, Gensim, TF, Keras), R (mlr, tm, caret)
-* __Econometrics__: STATA, R, Python
+* __Econometrics__: STATA, R, Python | Time series, Panel data, Spatial econometrics, Probit/tobit...
 * __Data Management__: R (tidyverse, ggplot2), Python (pandas, np, matplotlib, seaborn)
 * __Collaborative work tools__: Python .venv, Github, Zotero
+* __Office tools__: MS office suite, LateX
+* __Operating System__: Microsoft, Archlinux
 
 &nbsp; 
 # Academic activities and Leadership
@@ -69,3 +71,6 @@ redirect_from:
 * 2023: LEMNA seminar - Nantes
 * 2023: CIREQ-CIRANO seminar - Montreal (online)
 * 2022: Climate Change PSE Summer School - Paris
+
+-----
+[link](./CV_WalloisYoan.pdf)
