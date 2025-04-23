@@ -72,6 +72,7 @@ redirect_from:
 * 2023: CIREQ-CIRANO seminar - Montreal (online)
 * 2022: Climate Change PSE Summer School - Paris
 
+
 -----
-![CV available in English](./CV_WalloisYoan2025en.pdf)
+[CV available in English](./CV_WalloisYoan2025en.pdf) <br />
 [CV available in French](./CV_WalloisYoan2025fr.pdf)
