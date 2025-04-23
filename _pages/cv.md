@@ -48,7 +48,7 @@ redirect_from:
 &nbsp;
 # Data processing tools and Skills
 * __Text Mining & ML__: Python (Sklearn, Gensim, TF, Keras), R (mlr, tm, caret)
-* __Econometrics__: STATA, R, Python | Time series, Panel data, Spatial econometrics, Probit/tobit...
+* __Econometrics__: STATA, R, Python --- Time series, Panel data, Spatial econometrics, Probit/tobit...
 * __Data Management__: R (tidyverse, ggplot2), Python (pandas, np, matplotlib, seaborn)
 * __Collaborative work tools__: Python .venv, Github, Zotero
 * __Office tools__: MS office suite, LateX
